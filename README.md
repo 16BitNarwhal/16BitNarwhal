@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Eric
+# Hiya👋! I'm Eric
+<img width="200" height="200" object-fit="none" src="https://github.com/16BitNarwhal/16BitNarwhal/blob/main/narhwal.gif"/>
+
 ## 📖 About Me
 I'm a first-year student studying 💻 Software Engineering at the 🏫 University of Waterloo! 
 

@@ -2,14 +2,18 @@
 <img width="200" height="200" object-fit="none" src="https://github.com/16BitNarwhal/16BitNarwhal/blob/main/narhwal.gif"/>
 
 ## 📖 About Me
-I'm a first-year student studying 💻 Software Engineering at the 🏫 University of Waterloo! 
+I'm a `ML and Android` developer intern at RBC studying 💻 `Software Engineering` at the 🏫 University of Waterloo! 
 
-I'm incredibly interested in 🤖 Machine Learning and I also love building out random 💡 ideas!
+I'm incredibly interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!
 
-I also like to 🎹 play piano, 🪨 rock climb and 🥋 train taekwondo (psst! go check out my [fitness instagram](https://www.instagram.com/16fitnarwhal/))!
+I also like to 🎹 play `piano`, 🪨 `rock climb` and 🥋 train `taekwondo` (psst! go check out my [fitness instagram](https://www.instagram.com/16fitnarwhal/))!
 
 ## 🌱 Currently...
-I’m currently working on [ScoreSwipe](https://github.com/16BitNarwhal/ScoreSwipe), a mobile app for helping musicians flip digital music sheets. I'm learning Flutter and Dart programming along with the Business Logic Component architecture in order to do this!
+I’m currently working on
+- [ScoreSwipe](https://github.com/16BitNarwhal/ScoreSwipe) mobile app for helping musicians flip digital music sheets.
+- [Castorini](https://github.com/castorini/) NLP and IR research
+- [GeeseHacks](https://github.com/GeeseHacks) hackathon software
+
 
 ## 📊 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=16bitnarwhal&theme=tokyonight)](https://github.com/16bitnarwhal)

@@ -2,9 +2,9 @@
 <img width="200" height="200" object-fit="none" src="https://github.com/16BitNarwhal/16BitNarwhal/blob/main/narhwal.gif"/>
 
 ## 📖 About Me
-I'm a `ML and Android` developer intern at RBC studying 💻 `Software Engineering` at the 🏫 University of Waterloo! 
+I'm in `ML and SWE`, interning at RBC studying 💻 `Software Engineering` at the 🏫 University of Waterloo! 
 
-I'm incredibly interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!
+I'm super interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!
 
 I also like to 🎹 play `piano`, 🪨 `rock climb` and 🥋 train `taekwondo` (psst! go check out my [fitness instagram](https://www.instagram.com/16fitnarwhal/))!
 

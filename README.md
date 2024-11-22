@@ -2,18 +2,19 @@
 <img width="200" height="200" object-fit="none" src="https://github.com/16BitNarwhal/16BitNarwhal/blob/main/narhwal.gif"/>
 
 ## 📖 About Me
-I'm in `ML and SWE`, interning at RBC studying 💻 `Software Engineering` at the 🏫 University of Waterloo! 
+`SWE` @ `Greptile`
+Incoming to `Pantheon`
+Studying 💻 `Software Engineering` at the 🏫 University of Waterloo!
 
 I'm super interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!
 
 I also like to 🎹 play `piano`, 🪨 `rock climb` and 🥋 train `taekwondo` (psst! go check out my [fitness instagram](https://www.instagram.com/16fitnarwhal/))!
 
 ## 🌱 Currently...
-I’m currently working on
-- [ScoreSwipe](https://github.com/16BitNarwhal/ScoreSwipe) mobile app for helping musicians flip digital music sheets.
-- [Castorini](https://github.com/castorini/) NLP and IR research
-- [GeeseHacks](https://github.com/GeeseHacks) hackathon software
-
+I’m currently working on:
+- [facebook threatexchange](https://github.com/facebook/ThreatExchange)
+- [reporoast.com](reporoast.com)
+- hackathoning here and there!
 
 ## 📊 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=16bitnarwhal&theme=tokyonight)](https://github.com/16bitnarwhal)

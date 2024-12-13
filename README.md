@@ -3,7 +3,7 @@
 
 ## 📖 About Me
 `SWE` @ `Greptile`
-Incoming to `Pantheon`
+Incoming to `Meta`
 Studying 💻 `Software Engineering` at the 🏫 University of Waterloo!
 
 I'm super interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!

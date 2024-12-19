@@ -6,7 +6,7 @@
 Incoming to `Meta`
 Studying 💻 `Software Engineering` at the 🏫 University of Waterloo!
 
-I'm super interested in 🤖 `Machine Learning` and I also love building out random 💡 ideas!
+I'm super interested in 🤖 `Machine Learning Systems` and I also love building out random 💡 ideas!
 
 I also like to 🎹 play `piano`, 🪨 `rock climb` and 🥋 train `taekwondo` (psst! go check out my [fitness instagram](https://www.instagram.com/16fitnarwhal/))!
 
